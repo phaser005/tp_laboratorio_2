@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\bin\Debug\Entidades2.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\bin\Debug\Entidades2.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
