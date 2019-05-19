@@ -17,7 +17,7 @@ namespace Entidades_2018
         {
             Entera, Descremada
         }
-        ETipo tipo;
+        private ETipo tipo;
 
         /// <summary>
         /// Por defecto, TIPO será ENTERA

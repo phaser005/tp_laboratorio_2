@@ -35,7 +35,7 @@ namespace Entidades_2018
         /// <param name="color">Color del envase</param>
         public Producto(string patente, EMarca marca, ConsoleColor color)
         {
-            this.codigoDeBarras = patente;
+            codigoDeBarras = patente;
             this.marca = marca;
             colorPrimarioEmpaque = color;
         }
@@ -44,7 +44,7 @@ namespace Entidades_2018
         /// <summary>
         /// Publica todos los datos del Producto.
         /// </summary>
-        /// <returns>Cadena de texto con la informacion del objeto</returns>
+        /// <returns>Informacion del objeto Casteado a String</returns>
         public virtual string Mostrar()
         {
             return (string)this;
