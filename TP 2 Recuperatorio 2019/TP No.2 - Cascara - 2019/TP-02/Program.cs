@@ -47,7 +47,8 @@ namespace TP_02_2018
 
             // Quito un item y muestro
             changoDeCompras -= c1;
-            changoDeCompras -= c2;
+            //changoDeCompras -= c2;
+            changoDeCompras -= new Dulce(Producto.EMarca.Ilolay, "ASD913", ConsoleColor.Red);
 
             Console.WriteLine(changoDeCompras.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
