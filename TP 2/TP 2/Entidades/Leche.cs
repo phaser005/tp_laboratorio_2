@@ -38,8 +38,7 @@ namespace Entidades_2018
         /// <param name="patente">Codigo de barras de la leche</param>
         /// <param name="color">Color del envase</param>
         /// <param name="tipo">Tipo de leche</param>
-        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo)
-            : base(patente, marca, color)
+        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo):this(marca, patente, color)
         {
             this.tipo = tipo;
         }
