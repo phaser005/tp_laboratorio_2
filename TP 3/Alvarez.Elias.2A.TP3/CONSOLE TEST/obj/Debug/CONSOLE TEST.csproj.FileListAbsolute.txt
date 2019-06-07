@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\obj\Debug\CONSOLE TEST.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\obj\Debug\CONSOLE TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\CONSOLE TEST.exe.config
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\CONSOLE TEST.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\CONSOLE TEST.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Archivos.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Clases Abstractas.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Clases Instanciables.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Excepciones.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Archivos.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Clases Abstractas.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Clases Instanciables.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\bin\Debug\Excepciones.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\obj\Debug\CONSOLE TEST.csproj.CopyComplete
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\obj\Debug\CONSOLE TEST.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\CONSOLE TEST\obj\Debug\CONSOLE TEST.pdb
