@@ -7,3 +7,12 @@ C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Ar
 C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Excepciones.dll
 C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Archivos\obj\Debug\Archivos.pdb
