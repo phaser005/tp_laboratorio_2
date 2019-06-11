@@ -60,7 +60,7 @@ namespace Test_Unitarios
         [TestMethod]
         public void PruebaCamposAlumnoNotNull()
         {
-            Alumno a1 = new Alumno();
+            Alumno a1 = new Alumno(1, "test", "subject", "33656489", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
             Assert.IsNotNull(a1.Nacionalidad);
             Assert.IsNotNull(a1.Nombre);
             Assert.IsNotNull(a1.Apellido);

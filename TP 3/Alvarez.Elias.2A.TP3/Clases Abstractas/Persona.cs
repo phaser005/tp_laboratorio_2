@@ -83,30 +83,27 @@ namespace EntidadesAbstractas
         #endregion
 
         #region METODOS
-        //Si se utiliza el constructor por default de Persona deberán modificarse luego los valores de los campos por medio de las propiedades.
-        public Persona():this("","","00000001",ENacionalidad.Argentino)
+        public Persona()
         {
 
         }
 
         //Si se utiliza el constructor que no recibe DNI se debera especificar la nacionalidad como Argentino, que luego podra ser modificable por medio de propiedades.
-        public Persona(string nombre, string apellido, ENacionalidad nacionalidad) : this(nombre, apellido,"00000001", nacionalidad)
-        {
-
-        }
-
-        public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad) : this(nombre, apellido, dni.ToString(), nacionalidad)
-        {
-
-        }
-
-        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad)
+        public Persona(string nombre, string apellido, ENacionalidad nacionalidad):this()
         {
             this.nombre = nombre;
             this.apellido = apellido;
             this.nacionalidad = nacionalidad;
-            StringToDNI = dni;
+        }
 
+        public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
+        {
+            this.dni = dni;
+        }
+
+        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
+        {
+            StringToDNI = dni;
         }
 
         /// <summary>

@@ -77,7 +77,7 @@ namespace Clases_Instanciables
         public static bool Guardar(Jornada jornada)
         {
             Texto save = new Texto();
-            ((IArchivo<string>)save).Guardar(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Jornada.txt", jornada.ToString());
+            save.Guardar(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Jornada.txt", jornada.ToString());
             return true;
         }
 
@@ -89,7 +89,7 @@ namespace Clases_Instanciables
         {
             Texto read = new Texto();
             string data;
-            ((IArchivo<string>)read).Leer(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Jornada.txt", out data);
+            read.Leer(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Jornada.txt", out data);
 
             return data;
         }
@@ -103,9 +103,14 @@ namespace Clases_Instanciables
         public static bool operator ==(Jornada j, Alumno a)
         {
             bool result = false;
-            if (j.alumnos.Contains(a))
-                result = true;
-
+            foreach (Alumno item in j.alumnos)
+            {
+                if(item == a)
+                {
+                    result = true;
+                    break;
+                }
+            }
             return result;
         }
 

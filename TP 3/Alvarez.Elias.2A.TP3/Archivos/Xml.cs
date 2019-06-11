@@ -17,7 +17,7 @@ namespace Archivos
         /// <param name="archivo"></param>
         /// <param name="datos"></param>
         /// <returns></returns>
-        bool IArchivo<T>.Guardar(string archivo, T datos)
+        public bool Guardar(string archivo, T datos)
         {
             bool result = false;
             try
@@ -49,7 +49,7 @@ namespace Archivos
         /// <param name="archivo"></param>
         /// <param name="datos"></param>
         /// <returns></returns>
-        bool IArchivo<T>.Leer(string archivo, out T datos)
+        public bool Leer(string archivo, out T datos)
         {
             throw new NotImplementedException();
         }

@@ -119,7 +119,7 @@ namespace Clases_Instanciables
             Xml<Universidad> save = new Xml<Universidad>();
             try
             {
-                ((IArchivo<Universidad>)save).Guardar(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Universidad.XML", uni);
+                save.Guardar(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\CREATED FILES\\Universidad.XML", uni);
             }
             catch (ArchivosException e)
             {
@@ -139,8 +139,14 @@ namespace Clases_Instanciables
         public static bool operator ==(Universidad g, Alumno a)
         {
             bool result = false;
-            if (g.alumnos.Contains(a))
-                result = true;
+            foreach (Alumno item in g.alumnos)
+            {
+                if (item == a)
+                {
+                    result = true;
+                    break;
+                }
+            }
             return result;
         }
 
@@ -166,8 +172,15 @@ namespace Clases_Instanciables
         public static bool operator ==(Universidad g, Profesor i)
         {
             bool result = false;
-            if (g.profesores.Contains(i))
-                result = true;
+
+            foreach (Profesor item in g.profesores)
+            {
+                if (item == i)
+                {
+                    result = true;
+                    break;
+                }
+            }
             return result;
         }
 
