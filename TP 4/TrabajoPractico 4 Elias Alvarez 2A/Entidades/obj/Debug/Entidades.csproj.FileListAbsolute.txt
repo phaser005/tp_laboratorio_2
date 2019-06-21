@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\bin\Debug\Entidades.dll.config
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\bin\Debug\Entidades.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\bin\Debug\Entidades.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Entidades\obj\Debug\Entidades.pdb

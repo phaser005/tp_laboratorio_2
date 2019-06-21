@@ -1,0 +1,23 @@
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Unitary Test Project.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Unitary Test Project.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Entidades.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\MainCorreo.exe
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Entidades.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Entidades.dll.config
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\MainCorreo.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\MainCorreo.exe.config
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\obj\Debug\Unitary Test Project.csprojAssemblyReference.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\obj\Debug\Unitary Test Project.csproj.CoreCompileInputs.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\obj\Debug\Unitary Test Project.csproj.CopyComplete
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\obj\Debug\Unitary Test Project.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\Unitary Test Project\obj\Debug\Unitary Test Project.pdb
