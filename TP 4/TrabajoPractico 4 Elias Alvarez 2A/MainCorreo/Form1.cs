@@ -110,6 +110,12 @@ namespace MainCorreo
     
         private void paq_InformaEstado(object sender, EventArgs e)
         {
+            if (sender is Exception)
+            {
+                MessageBox.Show(((Exception)sender).Message,"Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
             if (this.InvokeRequired)
             {
                 Paquete.DelegadoEstado d = new Paquete.DelegadoEstado(paq_InformaEstado);

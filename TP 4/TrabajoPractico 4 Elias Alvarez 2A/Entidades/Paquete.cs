@@ -71,11 +71,10 @@ namespace Entidades
         {
             System.Threading.Thread.Sleep(4000);
             estado = EEstado.EnViaje;
-
             informaEstado(this, EventArgs.Empty);
+
             System.Threading.Thread.Sleep(4000);
             estado = EEstado.Entregado;
-
             informaEstado(this, EventArgs.Empty);
 
             try
@@ -84,8 +83,7 @@ namespace Entidades
             }
             catch (Exception e)
             {
-
-                throw e;
+                informaEstado(e, EventArgs.Empty);
             }
             
         }
