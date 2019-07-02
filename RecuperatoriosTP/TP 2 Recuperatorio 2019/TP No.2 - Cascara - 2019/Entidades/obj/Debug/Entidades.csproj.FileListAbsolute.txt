@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 2 Recuperatorio 2019\TP Nｧ2 - Cascara - 2019\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 2 Recuperatorio 2019\TP No.2 - Cascara - 2019\Entidades\obj\Debug\Entidades.pdb

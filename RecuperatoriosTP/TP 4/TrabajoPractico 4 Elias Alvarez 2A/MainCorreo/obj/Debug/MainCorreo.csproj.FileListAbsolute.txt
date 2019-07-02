@@ -1,0 +1,27 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.frmPpal.resources
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.exe
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\Entidades.dll
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\Entidades.pdb
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\bin\Debug\Entidades.dll.config
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.frmPpal.resources
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.exe
+C:\TP 4\TrabajoPractico 4 Elias Alvarez 2A\MainCorreo\obj\Debug\MainCorreo.pdb

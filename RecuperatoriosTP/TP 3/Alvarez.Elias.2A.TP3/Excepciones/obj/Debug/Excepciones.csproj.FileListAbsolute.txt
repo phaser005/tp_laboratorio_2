@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

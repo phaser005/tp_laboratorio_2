@@ -1,0 +1,18 @@
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\User\Downloads\UTN DOCS\PROG II -- LABO II\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\User\Documents\GitHub\tp_laboratorio_2\TP 3\Alvarez.Elias.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
