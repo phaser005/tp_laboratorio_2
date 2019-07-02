@@ -88,7 +88,6 @@ namespace EntidadesAbstractas
 
         }
 
-        //Si se utiliza el constructor que no recibe DNI se debera especificar la nacionalidad como Argentino, que luego podra ser modificable por medio de propiedades.
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad):this()
         {
             this.nombre = nombre;

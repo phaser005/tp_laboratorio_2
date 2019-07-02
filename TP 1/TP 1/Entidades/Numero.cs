@@ -9,38 +9,32 @@ namespace NumeroSpace
     public class Numero
     {
 
-        private double _numero;
+        private double numero;
 
         private string SetNumero
         {
             set
             {
-                _numero = ValidarNumero(value);
+                numero = ValidarNumero(value);
             }
         }
 
 
         #region CONSTRUCTORES (3)
-        /// <summary>
-        /// Constructor por default
-        /// </summary>
-        public Numero() : this(0)
+
+        public Numero()
         {
 
         }
-        /// <summary>
-        /// Constructor que recibe un string de numero
-        /// </summary>
+
         public Numero(string strNumero)
         {
             this.SetNumero = strNumero;
         }
-        /// <summary>
-        /// Constructor que recibe un double de numero
-        /// </summary>
+
         public Numero(double numero)
         {
-            _numero = numero;
+            this.numero = numero;
         }
         #endregion
 
@@ -74,58 +68,58 @@ namespace NumeroSpace
         /// <summary>
         /// Realiza una suma entre dos numeros
         /// </summary>
-        /// <param name="n1">Objeto de tipo Numero, primer operando</param>
-        /// <param name="n2">Objeto de tipo Numero, segundo operando</param>
+        /// <param name="n1">Numero</param>
+        /// <param name="n2">Numero</param>
         /// <returns>resultado de la operacion de suma, de tipo double</returns>
         public static double operator +(Numero n1, Numero n2)
         {
             double something = 0;
-            something = n1._numero + n2._numero;
+            something = n1.numero + n2.numero;
             return something;
         }
 
         /// <summary>
         /// Realiza una resta entre dos numeros
         /// </summary>
-        /// <param name="n1">Objeto de tipo Numero, primer operando</param>
-        /// <param name="n2">Objeto de tipo Numero, segundo operando</param>
+        /// <param name="n1">Numero</param>
+        /// <param name="n2">Numero</param>
         /// <returns>resultado de la operacion de resta, de tipo double</returns>
         public static double operator -(Numero n1, Numero n2)
         {
             double something = 0;
-            something = n1._numero - n2._numero;
+            something = n1.numero - n2.numero;
             return something;
         }
 
         /// <summary>
         /// Realiza una multiplicacion entre dos numeros
         /// </summary>
-        /// <param name="n1">Objeto de tipo Numero, primer operando</param>
-        /// <param name="n2">Objeto de tipo Numero, segundo operando</param>
+        /// <param name="n1">Numero</param>
+        /// <param name="n2">Numero</param>
         /// <returns>resultado de la operacion de multiplicacion, de tipo double</returns>
         public static double operator *(Numero n1, Numero n2)
         {
             double something = 0;
-            something = n1._numero * n2._numero;
+            something = n1.numero * n2.numero;
             return something;
         }
 
         /// <summary>
         /// Realiza una division entre dos numeros
         /// </summary>
-        /// <param name="n1">Objeto de tipo Numero, primer operando</param>
-        /// <param name="n2">Objeto de tipo Numero, segundo operando</param>
+        /// <param name="n1">Numero</param>
+        /// <param name="n2">Numero</param>
         /// <returns>resultado de la operacion de division, de tipo double</returns>
         public static double operator /(Numero n1, Numero n2)
         {
             double something = 0;
-            if (n2._numero == 0)
+            if (n2.numero == 0)
             {
                 something = double.MinValue;
             }
             else
             {
-                something = n1._numero / n2._numero;
+                something = n1.numero / n2.numero;
             }
             return something;
         }

@@ -24,11 +24,6 @@ namespace MiCalculadora
             cmbOperador.Items.Add("/");
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private static double Operar (string numero1, string numero2, string operador)
         {
             double result = 0;
@@ -47,31 +42,6 @@ namespace MiCalculadora
             txtNumero2.Clear();
             cmbOperador.SelectedIndex = -1;
             lblResultado.Text = "0";
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void btnOperar_Click(object sender, EventArgs e)

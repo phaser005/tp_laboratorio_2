@@ -16,23 +16,23 @@ namespace CalculadoraSpace
         /// <param name="n2">Segundo operando de tipo Numero</param>
         /// <param name="operador">Caracter que indica el tipo de operacion a realizar</param>
         /// <returns>Double con el resultado</returns>
-        public static double Operar(Numero n1, Numero n2, string operador)
+        public static double Operar(Numero num1, Numero num2, string operador)
         {
             double something = double.MinValue;
 
             switch (ValidarOperador(operador))
             {
                 case "+":
-                    something = n1 + n2;
+                    something = num1 + num2;
                     break;
                 case "-":
-                    something = n1 - n2;
+                    something = num1 - num2;
                     break;
                 case "*":
-                    something = n1 * n2;
+                    something = num1 * num2;
                     break;
                 case "/":
-                    something = n1 / n2;
+                    something = num1 / num2;
                     break;
                 default:
                     break;

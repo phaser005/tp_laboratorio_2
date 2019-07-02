@@ -47,7 +47,6 @@
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.Size = new System.Drawing.Size(86, 33);
             this.cmbOperador.TabIndex = 2;
-            this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged_1);
             // 
             // btnOperar
             // 
@@ -106,7 +105,6 @@
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(100, 30);
             this.txtNumero1.TabIndex = 1;
-            this.txtNumero1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtNumero2
             // 
@@ -115,7 +113,6 @@
             this.txtNumero2.Name = "txtNumero2";
             this.txtNumero2.Size = new System.Drawing.Size(100, 30);
             this.txtNumero2.TabIndex = 3;
-            this.txtNumero2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // lblResultado
             // 
@@ -126,7 +123,6 @@
             this.lblResultado.TabIndex = 8;
             this.lblResultado.Text = "0";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.lblResultado.Click += new System.EventHandler(this.label1_Click);
             // 
             // MiCalculadora
             // 
